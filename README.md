@@ -161,7 +161,7 @@ npm run dev
 👉 Add your demo link here:
 
 ```id="e4h7zb"
-https://your-demo-video-link.com
+https://drive.google.com/drive/folders/1YWxpKurqXmj-c-IWYZmpzWPGaOxEPsl1?usp=drive_link
 ```
 
 ---
